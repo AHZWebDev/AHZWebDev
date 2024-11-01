@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Alec!</h1>
 <h3 align="center">Web Developer Student at Northern Alberta Institute of Technology | Photographer</h3>
 
-- 🔭 I’m currently working on **a bunch of homework.🫠**
+- 🔭 I’m currently working on a bunch of homework.🫠
 
-- 🌱 I’m currently learning **a lot of web stuff.**
+- 🌱 I’m currently learning a lot of web stuff.
 
-- 🔭 I’m looking forward working on **my LeetCodes problems.**
+- 🔭 I’m looking forward working on my LeetCodes problems.
 
-- 👯 I’m looking forward to collaborate on **any open sources in the future.**
+- 👯 I’m looking forward to collaborate on any open sources in the future.
 
-- 👨‍💻 All of my projects and experiences are available at [https://ahzwebdev.ca/](https://ahzwebdev.ca/)
+- 👨‍💻 All of my projects and experiences will bw available at [https://ahzwebdev.ca/](https://ahzwebdev.ca/)
 
 - 💬 Ask me about **Web stuff or photography!**
 
-- 📫 How to reach me **alech@ahzwebdev.ca**
-
-- ⚡ Fun fact **Did you know that sea otters hold hands while they sleep? They do this to keep from drifting apart in the water. Otters will even wrap themselves in kelp to anchor themselves and stay together as a group, it's called a "raft" of otters! 🦦**
+- 📫 You can reach me at **alech@ahzwebdev.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
