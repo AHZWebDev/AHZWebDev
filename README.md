@@ -7,7 +7,7 @@
 
 - 👯 I’m looking forward to collaborate on any open sources in the future.
 
-- 👨‍💻 All of my projects and experiences will bw available at [https://ahzwebdev.ca/](https://ahzwebdev.ca/)
+- 👨‍💻 All of my projects and experiences will be available at [https://ahzwebdev.ca/](https://ahzwebdev.ca/)
 
 - 💬 Ask me about **Web stuff or photography!**
 
